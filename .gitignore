@@ -1,0 +1,17 @@
+# Virtual Environment 
+venv/
+
+# Python Bytecode and Cache 
+__pycache__/
+*.py[cod]
+
+#  tldextract Cache (for domain parsing) 
+tldextract/.suffix_cache/
+suffix_cache/
+
+# Linux Editor Backup Files (Nano) 
+*~
+*.bak
+*.tmp
+
+
